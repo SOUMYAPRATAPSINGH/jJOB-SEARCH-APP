@@ -134,7 +134,7 @@ export function CreateJobForm() {
               <FormItem>
                 <FormLabel> Salary Max </FormLabel>
                 <FormControl>
-                  <Input type="number" placeholder="₹12,00,000" {...field} />
+                  <Input type="number" placeholder="₹12LPA" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
